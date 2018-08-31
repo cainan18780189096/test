@@ -5,4 +5,5 @@ for i in `seq 9`
     do
       echo -ne "$i*$j=$[i*j] \t"
     done
+    echo
   done
